@@ -1,0 +1,8 @@
+# Tema visual "Clinical Dark": fondo azul profundo con acentos cyan
+[theme]
+base = "dark"
+primaryColor = "#06B6D4"
+backgroundColor = "#0F172A"
+secondaryBackgroundColor = "#1E293B"
+textColor = "#E2E8F0"
+font = "sans serif"
